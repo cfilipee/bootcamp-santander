@@ -1,2 +1,3 @@
 # bootcamp-santander
-Projeto FullStack - BootCamp DIO e Santander
+- Projeto DIO - API Backend + Banco PostgreSQL
+
